@@ -5,4 +5,6 @@ fn main() {
     days::day01::print_answer();
     println!("Day02:");
     days::day02::print_answer();
+    println!("Day03:");
+    days::day03::print_answer();
 }
